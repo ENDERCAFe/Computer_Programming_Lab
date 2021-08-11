@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T03:24:45.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="AT-lqOBQCltSC8Nxo9ol" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T03:28:33.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="kUpaMBmaiEfl957wVw5l" version="14.9.4" type="github">
   <diagram id="gcdqIl62TrouCr1aFTg6" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,8 +15,8 @@
         <mxCell id="FEpp2K_y1Ivf0mxCMOVs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEpp2K_y1Ivf0mxCMOVs-2" target="FEpp2K_y1Ivf0mxCMOVs-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEpp2K_y1Ivf0mxCMOVs-2" value="wide (w),&amp;nbsp; long(l)" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="100" height="60" as="geometry" />
+        <mxCell id="FEpp2K_y1Ivf0mxCMOVs-2" value="float wide (w),&amp;nbsp; long(l)" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEpp2K_y1Ivf0mxCMOVs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEpp2K_y1Ivf0mxCMOVs-4" target="FEpp2K_y1Ivf0mxCMOVs-6">
           <mxGeometry relative="1" as="geometry" />
